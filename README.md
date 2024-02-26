@@ -1,5 +1,8 @@
 # VAI NU BANK 
 # Sistema de Cadastro de Contas Bancárias
+
+Este é um sistema simples de cadastro de contas bancárias com as seguintes funcionalidades:
+
 - Criação de conta corrente ou poupança.
 - Conta corrente: permite saques ilimitados e opção de limite de crédito.
 - Conta poupança: oferece juros de 2% do valor a cada saque realizado.
